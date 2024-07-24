@@ -4,7 +4,7 @@
 - 🔭 I’m interested in Software Engineering.
 - ⚙️ I use daily: `.ts`, `.js(x)`, `.yml`, `.html`, `.css`.
 - 🌱 I’m currently learning about **distributed systems**, **software architecture**,  **design patterns**.
-- 👯 I’m looking to collaborate on TypeScript/Node.js & Go projects.
+- 👯 I’m looking to collaborate on TypeScript/Node.js, Python & Go projects.
 - 💬 Ask me about backend engineering, hot jollof rice, contemporary music.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/olusegun-ekoh-872932178/)
 
