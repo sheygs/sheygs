@@ -3,8 +3,8 @@
 - Hi, I'm @sheygs
 - 🔭 I’m interested in Software Engineering.
 - ⚙️ I use daily: `.ts`, `.js(x)`, `.py`, `.yml`, `.html`, `.css`.
-- 🌱 I’m currently learning about **AI/ML**, **platform engineering** and **distributed systems**.
-- 👯 I’m looking to collaborate on TypeScript/Node.js, Python and Java projects.
+- 🌱 I’m currently learning about **AI/Platform Engineering** and **distributed systems**.
+- 👯 I’m looking to collaborate on TypeScript, Node.js, Python and Java projects.
 - 💬 Ask me about backend engineering, hot jollof rice, contemporary music.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/olusegun-ekoh/)
 
